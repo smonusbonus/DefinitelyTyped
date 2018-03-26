@@ -23,5 +23,8 @@
   "devDependencies": {
     "dtslint": "github:Microsoft/dtslint#production",
     "types-publisher": "Microsoft/types-publisher#production"
+  },
+  "dependencies": {
+    "log4bro": "3.4.0"
   }
 }
